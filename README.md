@@ -1,4 +1,4 @@
-# ExpenseApp w/ RTK
+# ExpenseApp
 
 ### <a href="https://expenseapprtk.netlify.app">DEMO</a>
 
